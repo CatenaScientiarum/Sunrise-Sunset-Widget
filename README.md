@@ -39,3 +39,6 @@ Move the widget by enabling "Move Mode" from the tray.
 API Integration
 
 The widget fetches solar data using the Sunrise-Sunset API.
+
+![NVIDIA_Overlay_Wk3QLY1QEC](https://github.com/user-attachments/assets/82d8538d-f62b-46e2-9ea8-36a7109c2183)
+
